@@ -10952,7 +10952,7 @@ production_recipes:
           amount: 84
  Smelt_Diorite:
     name: Smelt Diorite
-    production_time: 64
+    production_time: 16
     inputs:
       Cobblestone:
         material: COBBLESTONE
@@ -10967,7 +10967,7 @@ production_recipes:
         durability: 3
  Smelt_Granite:
     name: Smelt Granite
-    production_time: 64
+    production_time: 16
     inputs:
       Cobblestone:
         material: COBBLESTONE
@@ -10982,7 +10982,7 @@ production_recipes:
         durability: 1
  Smelt_Andesite:
     name: Smelt Andesite
-    production_time: 64
+    production_time: 16
     inputs:
       Cobblestone:
         material: COBBLESTONE
